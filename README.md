@@ -131,4 +131,3 @@ Published a research paper focusing on the use of **AI for facial recognition**,
 **LinkedIn:** [Prerna Khambhayata](https://linkedin.com/in/prerna-khambhayata-22a315234)  
 **GitHub:** [PrernaKhambhayata](https://github.com/PrernaKhambhayata)  
 **Location:** Rajkot, Gujarat, India  
-**Phone:** +91 6355654513
